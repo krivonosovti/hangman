@@ -1,3 +1,0 @@
-apple;fruits;notAnInt;Hint1;Hint2;Hint3
-banana;fruits;2
-carrot;;1;Hint1;Hint2;Hint3

@@ -1,0 +1,3 @@
+apple;Фрукты;1;Hint1;Hint2;Hint3
+banana;Фрукты;2;Hint1;Hint2;Hint3;Hint4
+carrot;Овощи;1;Hint1;Hint2;Hint3
